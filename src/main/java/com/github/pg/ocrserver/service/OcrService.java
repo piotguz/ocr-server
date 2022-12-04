@@ -2,7 +2,6 @@ package com.github.pg.ocrserver.service;
 
 import com.github.pg.ocrserver.dto.OcrLanguage;
 import com.github.pg.ocrserver.dto.OcrResult;
-import ij.ImageJ;
 import lombok.RequiredArgsConstructor;
 import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
